@@ -1,0 +1,144 @@
+newmtl material_26
+       Ka 0.0242 0.477 0.434 1
+       Kd 0.0242 0.477 0.434 1
+
+newmtl material_6
+       Ka 0.0684 0.464 0.332 1
+       Kd 0.0684 0.464 0.332 1
+
+newmtl material_4
+       Ka 0.116 0.385 0.444 1
+       Kd 0.116 0.385 0.444 1
+
+newmtl material_24
+       Ka 0.155 0.337 0.38 1
+       Kd 0.155 0.337 0.38 1
+
+newmtl material_29
+       Ka 0.202 0.281 0.0401 1
+       Kd 0.202 0.281 0.0401 1
+
+newmtl material_20
+       Ka 0.204 0.361 0.0166 1
+       Kd 0.204 0.361 0.0166 1
+
+newmtl material_23
+       Ka 0.208 0.811 0.87 1
+       Kd 0.208 0.811 0.87 1
+
+newmtl material_7
+       Ka 0.246 0.992 0.328 1
+       Kd 0.246 0.992 0.328 1
+
+newmtl material_3
+       Ka 0.247 0.695 0.721 1
+       Kd 0.247 0.695 0.721 1
+
+newmtl material_21
+       Ka 0.265 0.545 0.919 1
+       Kd 0.265 0.545 0.919 1
+
+newmtl material_31
+       Ka 0.286 0.788 0.0252 1
+       Kd 0.286 0.788 0.0252 1
+
+newmtl material_28
+       Ka 0.287 0.048 0.513 1
+       Kd 0.287 0.048 0.513 1
+
+newmtl material_10
+       Ka 0.292 0.519 0.162 1
+       Kd 0.292 0.519 0.162 1
+
+newmtl material_34
+       Ka 0.321 0 0.549 1
+       Kd 0.321 0 0.549 1
+
+newmtl material_16
+       Ka 0.417 0.0197 0.911 1
+       Kd 0.417 0.0197 0.911 1
+
+newmtl material_32
+       Ka 0.418 0.12 0.508 1
+       Kd 0.418 0.12 0.508 1
+
+newmtl material_15
+       Ka 0.432 0.395 0.95 1
+       Kd 0.432 0.395 0.95 1
+
+newmtl material_33
+       Ka 0.439 0.809 0.407 1
+       Kd 0.439 0.809 0.407 1
+
+newmtl material_1
+       Ka 0.445 0.19 0.0152 1
+       Kd 0.445 0.19 0.0152 1
+
+newmtl material_11
+       Ka 0.503 0.628 0.531 1
+       Kd 0.503 0.628 0.531 1
+
+newmtl material_35
+       Ka 0.541 0.281 0.364 1
+       Kd 0.541 0.281 0.364 1
+
+newmtl material_18
+       Ka 0.556 0.784 0.876 1
+       Kd 0.556 0.784 0.876 1
+
+newmtl material_12
+       Ka 0.562 0.0351 0.516 1
+       Kd 0.562 0.0351 0.516 1
+
+newmtl material_2
+       Ka 0.567 0.139 0.652 1
+       Kd 0.567 0.139 0.652 1
+
+newmtl material_13
+       Ka 0.576 0.797 0.862 1
+       Kd 0.576 0.797 0.862 1
+
+newmtl material_5
+       Ka 0.618 0.0234 0.935 1
+       Kd 0.618 0.0234 0.935 1
+
+newmtl material_36
+       Ka 0.673 0.712 0.572 1
+       Kd 0.673 0.712 0.572 1
+
+newmtl material_22
+       Ka 0.794 0.592 0.895 1
+       Kd 0.794 0.592 0.895 1
+
+newmtl material_9
+       Ka 0.829 0.742 0.363 1
+       Kd 0.829 0.742 0.363 1
+
+newmtl material_30
+       Ka 0.843 0.99 0.829 1
+       Kd 0.843 0.99 0.829 1
+
+newmtl material_19
+       Ka 0.901 0.756 0.0798 1
+       Kd 0.901 0.756 0.0798 1
+
+newmtl material_17
+       Ka 0.916 0.608 0.322 1
+       Kd 0.916 0.608 0.322 1
+
+newmtl material_14
+       Ka 0.938 0.379 0.539 1
+       Kd 0.938 0.379 0.539 1
+
+newmtl material_27
+       Ka 0.942 0.283 0.484 1
+       Kd 0.942 0.283 0.484 1
+
+newmtl material_25
+       Ka 0.964 0.226 0.405 1
+       Kd 0.964 0.226 0.405 1
+
+newmtl material_8
+       Ka 0.969 0.632 0.128 1
+       Kd 0.969 0.632 0.128 1
+
